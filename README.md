@@ -8,9 +8,7 @@
 
 
 
-
-
-##主要功能
+## 主要功能
 
 #### 1.orderCreate
 
@@ -23,8 +21,6 @@
 #### 3.orderExecute
 
 成单方法，需传入_receiver（接收者地址），_value（成单金额），_tokenAddress（代币合约地址），_message（成单附加信息）。
-
-
 
 
 
